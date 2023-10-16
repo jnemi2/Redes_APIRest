@@ -1,4 +1,4 @@
-import social as sn
+import app.social as sn
 import random
 from random import randrange
 from fastapi import FastAPI, Response, status, HTTPException
